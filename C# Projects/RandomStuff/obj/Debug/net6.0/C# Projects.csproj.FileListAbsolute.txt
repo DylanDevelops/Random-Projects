@@ -1,0 +1,15 @@
+/Users/dylanravel/Desktop/Projects/C# Projects/bin/Debug/net6.0/C# Projects
+/Users/dylanravel/Desktop/Projects/C# Projects/bin/Debug/net6.0/C# Projects.deps.json
+/Users/dylanravel/Desktop/Projects/C# Projects/bin/Debug/net6.0/C# Projects.runtimeconfig.json
+/Users/dylanravel/Desktop/Projects/C# Projects/bin/Debug/net6.0/C# Projects.dll
+/Users/dylanravel/Desktop/Projects/C# Projects/bin/Debug/net6.0/C# Projects.pdb
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.csproj.AssemblyReference.cache
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.AssemblyInfoInputs.cache
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.AssemblyInfo.cs
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.csproj.CoreCompileInputs.cache
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.dll
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/refint/C# Projects.dll
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.pdb
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/C# Projects.genruntimeconfig.cache
+/Users/dylanravel/Desktop/Projects/C# Projects/obj/Debug/net6.0/ref/C# Projects.dll
