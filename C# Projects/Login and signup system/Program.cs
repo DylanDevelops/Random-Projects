@@ -20,7 +20,6 @@ while(loopBack)
     Console.WriteLine($"Please choose a command. Type [{help}] if you need help.");
     string answer1 = Console.ReadLine();
 
-    if(answer1 == signUp)
     {
         Console.WriteLine("Please Enter an Email:");
         email = Console.ReadLine();

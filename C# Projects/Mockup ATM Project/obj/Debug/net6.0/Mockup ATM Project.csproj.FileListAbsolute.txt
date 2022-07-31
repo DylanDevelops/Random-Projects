@@ -1,0 +1,15 @@
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/bin/Debug/net6.0/Mockup ATM Project
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/bin/Debug/net6.0/Mockup ATM Project.deps.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/bin/Debug/net6.0/Mockup ATM Project.runtimeconfig.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/bin/Debug/net6.0/Mockup ATM Project.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/bin/Debug/net6.0/Mockup ATM Project.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.csproj.AssemblyReference.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.AssemblyInfoInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.AssemblyInfo.cs
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.csproj.CoreCompileInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/refint/Mockup ATM Project.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/Mockup ATM Project.genruntimeconfig.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/Debug/net6.0/ref/Mockup ATM Project.dll
