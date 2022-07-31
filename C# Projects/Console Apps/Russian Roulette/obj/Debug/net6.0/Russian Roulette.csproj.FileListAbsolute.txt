@@ -1,0 +1,15 @@
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/bin/Debug/net6.0/Russian Roulette
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/bin/Debug/net6.0/Russian Roulette.deps.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/bin/Debug/net6.0/Russian Roulette.runtimeconfig.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/bin/Debug/net6.0/Russian Roulette.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/bin/Debug/net6.0/Russian Roulette.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.csproj.AssemblyReference.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.AssemblyInfoInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.AssemblyInfo.cs
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.csproj.CoreCompileInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/refint/Russian Roulette.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/Russian Roulette.genruntimeconfig.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Russian Roulette/obj/Debug/net6.0/ref/Russian Roulette.dll
