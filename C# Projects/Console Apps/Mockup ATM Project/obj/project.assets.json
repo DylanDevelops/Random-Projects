@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/Mockup ATM Project.csproj",
+      "projectUniqueName": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Mockup ATM Project/Mockup ATM Project.csproj",
       "projectName": "Mockup ATM Project",
-      "projectPath": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/Mockup ATM Project.csproj",
+      "projectPath": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Mockup ATM Project/Mockup ATM Project.csproj",
       "packagesPath": "/Users/dylanravel/.nuget/packages/",
-      "outputPath": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Mockup ATM Project/obj/",
+      "outputPath": "/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Mockup ATM Project/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dylanravel/.nuget/NuGet/NuGet.Config"
