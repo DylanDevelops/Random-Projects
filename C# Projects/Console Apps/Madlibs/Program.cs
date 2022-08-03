@@ -39,4 +39,4 @@ noun = Console.ReadLine();
 
 Console.WriteLine("\nWithout further adieu, here is your story:");
 
-Console.WriteLine($"\nIt was {food} day at school, and {name} was super {adjective} for lunch. But when they went outside to eat, a {bird} stole her {food}! {name} chased the {bird} all over school. They {verb1}, {verb2}, {verb3} through the playground. Then they tripped on a {noun} and the {bird} escaped! Luckily, {name}'s friends were willing to share their {food} with her.");
+Console.WriteLine($"\nIt was {food} day at school, and {name} was super {adjective} for lunch. But when they went outside to eat, a {bird} stole her {food}! {name} chased the {bird} all over school. They {verb1}, {verb2}, and {verb3} through the playground. Then they tripped on a {noun} and the {bird} escaped! Luckily, {name}'s friends were willing to share their {food} with her.");
