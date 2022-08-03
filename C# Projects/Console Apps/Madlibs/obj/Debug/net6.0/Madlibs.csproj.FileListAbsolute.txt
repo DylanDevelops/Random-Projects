@@ -1,0 +1,15 @@
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/bin/Debug/net6.0/Madlibs
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/bin/Debug/net6.0/Madlibs.deps.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/bin/Debug/net6.0/Madlibs.runtimeconfig.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/bin/Debug/net6.0/Madlibs.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/bin/Debug/net6.0/Madlibs.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.csproj.AssemblyReference.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.AssemblyInfoInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.AssemblyInfo.cs
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.csproj.CoreCompileInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/refint/Madlibs.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/Madlibs.genruntimeconfig.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Madlibs/obj/Debug/net6.0/ref/Madlibs.dll
