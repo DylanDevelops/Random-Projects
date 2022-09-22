@@ -1,0 +1,15 @@
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/bin/Debug/net6.0/Testing github copilot
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/bin/Debug/net6.0/Testing github copilot.deps.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/bin/Debug/net6.0/Testing github copilot.runtimeconfig.json
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/bin/Debug/net6.0/Testing github copilot.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/bin/Debug/net6.0/Testing github copilot.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.csproj.AssemblyReference.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.AssemblyInfoInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.AssemblyInfo.cs
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.csproj.CoreCompileInputs.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/refint/Testing github copilot.dll
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.pdb
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/Testing github copilot.genruntimeconfig.cache
+/Users/dylanravel/Desktop/Projects/Random-Projects/C# Projects/Console Apps/Testing github copilot/obj/Debug/net6.0/ref/Testing github copilot.dll
